@@ -1,0 +1,53 @@
+
+.head{
+    width:150px;
+    height: 350px;
+    background-color: bisque;
+    align-items: center;
+    margin: 20px 20px 20px 10px;
+    padding: 200px;
+}
+   .container{
+    border-radius: 10px;
+    align-items: center; 
+    width: 100px;
+    height: 300px;
+    margin: 20px 10px 20px 10px;
+   background-color: black;
+    }  
+ .signal1{
+     width: 50px;
+     height: 50px;
+     border-radius: 50%;
+     margin: 10px 20px;
+     background-color: red;
+    
+ }
+ 
+    
+
+ .signal2{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 10px 20px;
+    background-color:yellow;
+
+}
+.signal3{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 10px 20px;
+    background-color:green;
+
+}
+.conflict{
+    width: 10px;
+    height: 40px;
+    border-radius: 5px;
+    margin: 10px 20px 30px 20px;
+    background-color:black;
+align-items: center;
+padding-right: 5px;
+}
